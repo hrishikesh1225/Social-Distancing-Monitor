@@ -26,11 +26,7 @@ The coronavirus outbreak has shown the need to adapt, repurpose and innovate to 
 
 The Project perspectives are mentioned below. Hardware interfaces and Software interfaces used for this project are mentioned below.
 
-### 2.Circuit Diagram
-
-![Uploading coronadistancemonitor_sHT0HbvXzq.png…]()
-
-### 3.Hardware Components
+### 2.Hardware Components
 
 The hardware components used in this project for building the smart device are mentioned as follows:
 * Orange 360 mAh 1S 30C/60C Lithium polymer battery Pack (LiPo)
@@ -41,13 +37,13 @@ The hardware components used in this project for building the smart device are m
 * Adafruit NeoPixel Ring: WS2812 5050 RGB LED
 * UTSOURCE Electronic Parts
 
-### 4.Software Interface
+### 3.Software Interface
 
 Software interfaces used are mentioned below : 
 * Micropython
 * Arduino IDE
 
-### 5.Protocols Used
+### 4.Protocols Used
 
 * TCP/IP
 * HTTP
