@@ -88,7 +88,10 @@ Wearable device that notifies you to always maintain proper social-distancing in
 
 ### Code 
 
-It is in the file uploaded , it is a c++ program.
+The file has been uploaded with the code , it is a c++ program.
+
+It is saved as SD.hxx.
+
 Use Adrino IDE.
 
 ## Conclusion
